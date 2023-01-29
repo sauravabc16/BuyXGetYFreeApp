@@ -1,0 +1,28 @@
+[
+  {
+    "language": "en",
+    "translations": {
+      "greeting": "Hello, lets build BuyXGetYFree offer!",
+      "enterX": "Please enter the minimum quantity need to be bought to avail the offer. i.e, X in BuyXGetYFree : ",
+      "enterY": "Please enter the free quantity that buyer gets when they buy minimum quantity need to be bought to avail the offer. i.e, Y in BuyXGetYFree : ",
+      "enterBoughtQuantity": "Please enter the quantity bought by the customer : ",
+      "additionalQuantity": "Customer has qualified for the 'Buy {0} Get {1} free offer. They can pick additional {2} items. Does the customer want to pick additional items? (y/n) : ",
+      "incorrectInput": "That was incorrect input. Please try again.",
+      "outputMessage": "Customer bought {0} then, payable quantity is {1} and free quantity is {2}.",
+      "exitMessage": "Press any key to exit the process..."
+    }
+  },
+  {
+    "language": "es",
+    "translations": {
+      "greeting": "Hola, ¡construyamos la oferta BuyXGetYFree!,",
+      "enterX": "ngrese la cantidad mínima que debe comprar para aprovechar la oferta. es decir, X en BuyXGetYFree : ",
+      "enterY": "Ingrese la cantidad gratuita que el comprador obtiene cuando compra la cantidad mínima que debe comprar para aprovechar la oferta. es decir, Y en BuyXGetYFree : ",
+      "enterBoughtQuantity": "Por favor ingrese la cantidad comprada por el cliente: ",
+      "additionalQuantity": "El cliente ha calificado para la oferta 'Compre {0} obtenga {1} gratis. Pueden elegir {2} artículos adicionales. ¿El cliente quiere elegir artículos adicionales? (y/n) : ",
+      "incorrectInput": "Esa fue una entrada incorrecta. Inténtalo de nuevo.",
+      "outputMessage": "Si el cliente compró {0} entonces, la cantidad a pagar es {1} y la cantidad gratuita es {2}.",
+      "exitMessage": "Pulse cualquier tecla para salir del proceso..."
+    }
+  }
+]
